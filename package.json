@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://telegram-mini-apps.github.io/reactjs-template",
+  "homepage": "https://demo-telegram-mini-apps5612.github.io/demo-telegram-mini-app",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
